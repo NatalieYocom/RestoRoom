@@ -2,9 +2,10 @@
 <img src="img/RestoRoomLogoTransparent.png" width="300" height="300">
 </p>
 
-## RestoRoom
+# RestoRoom
+Project Overview:
 
-RestoRoom is an open-source effort to reverse engineer and reimplement the Rec Room server infrastructure so the community can keep playing after the lights go out.
+RestoRoom is an open-source project that aims to reverse engineer and reimplement the Rec Room server infrastructure so the community can keep playing after the lights go out.
 
 This is a preservation project, built by fans, for fans
 
